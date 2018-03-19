@@ -5,3 +5,5 @@ function updateName(){
 	var name = prompt('Enter your name');
 	paragraph.textContent = 'Player 1: ' +name;
 }
+
+
